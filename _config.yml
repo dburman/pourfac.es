@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: POUR FAC.ES 
+url: http://pourfac.es
+description: Brain Dump 
+twitter: therapod 
+github: dburman 
+gravatar_url: http://gravatar.com/avatar/601c895402e2655fc3fd00d225e18457
