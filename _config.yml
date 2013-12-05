@@ -5,7 +5,7 @@ rdiscount:
   extensions: [smart]
 
 name: POUR FAC.ES 
-url: http://pourfac.es
+url: http://dburman.github.io/pourfac.es
 description: Brain Dump 
 twitter: therapod 
 github: dburman 
