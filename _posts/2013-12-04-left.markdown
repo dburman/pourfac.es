@@ -1,0 +1,14 @@
+---
+layout: post
+title: Left
+category: posts
+---
+Setup this blog with Left.
+
+"Left is a clean, whitespace-happy layout for [Jekyll][jekyll]."
+---
+
+If you want to [get the code][left]....
+
+[jekyll]: https://github.com/mojombo/jekyll
+[left]: https://github.com/holman/left#readme
